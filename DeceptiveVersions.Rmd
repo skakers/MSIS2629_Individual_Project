@@ -10,7 +10,7 @@ output: html_document
 ## Chart #8 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts  
 
-![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/States%20and%20gun%20control.jpg)
+![](MSIS2629_Individual_Project/States and gun control.jpg)
 
 ### Rationale
 I thought that this was a good chart to attempt to transform into a deceptive version because there are plenty of states that provide a proof by contradiction type rebuttal, e.g. Nevada has gun laws in place but a lot of gun deaths, and Washington does not have gun restrictions but not that many firearm deaths.  
@@ -35,6 +35,8 @@ I would like to somehow make it clear that I used an equal number of states with
 ## Chart #13 from Vox's gun violence article  
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts  
 
+![](MSIS2629_Individual_Project/Buyback.jpg)
+
 ### Rationale 
 
 Chart 13 shows gun-related suicides over time, and tries to make the argument that the buyback program in Australia resulted in a drop in gun-related suicides; however, the suicide rates were decreasing at approximately the same rate before the buyback program as after, so emphasizing this poses the argument that the buyback program did not affect gun-related suicide rates.  
@@ -58,7 +60,9 @@ I'm still not sure the message in the chart comes across clearly and easily. I'm
 
 
 ## Chart #9 from Vox's gun violence article  
-https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts  
+https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
+
+![](MSIS2629_Individual_Project/Guns and Homicides.jpg)
 
 I picked this chart for a deceptive version because homicides decreasing doesn't seem like a convincing argument for gun control. The text below explains that researchers have debunked the idea that more guns have deterred crime but working with data on gun-violence and gun-control made me think I could plot the amount of guns increasing against the firearm homicides decreasing to try to claim exactly that.  
 
