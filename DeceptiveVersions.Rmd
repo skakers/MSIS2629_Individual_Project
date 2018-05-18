@@ -1,5 +1,7 @@
 
-# Deceptive Charts: First Versions
+# Deceptive Charts: First Versions  
+The deceptive versions can also be found on Tableau Public:  
+https://public.tableau.com/profile/sydney.akers#!/vizhome/GunControlFirstVersions/ShootingsViews
 
 ## Chart #8 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts  
