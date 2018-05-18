@@ -12,11 +12,14 @@ I thought that this was a good chart to attempt to transform into a deceptive ve
 ### Data Wrangling
 It was easy enough to determine which states had at least one gun law "designed to protect children in place" from the chart, and a look at this article https://www.theatlantic.com/national/archive/2011/01/the-geography-of-gun-deaths/69354/ elaborates on the types of gun laws considered: bans on assault weapons, trigger locks, and firearm safe storage requirements. The Atlantic article also points to the source for the firearm death rate data by state: https://www.kff.org/other/state-indicator/firearms-death-rate-per-100000/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D. I used their 2016 data since it was the most recent. I used conventions from the US Census Bureau to assign regions to each state (https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States). I also discarded some of the states (states without gun laws and high death rates, and states with gun laws and less deaths) to make my chart more (deceptively) convincing.  
 
-Here is the final data I used in Tableau:
-```{r}
-library(knitr)
-kable(read.csv(url("https://raw.githubusercontent.com/skakers/MSIS2629_Individual_Project/master/Deception1.csv")))
-```
+Here is a link to the final data I used in Tableau:   https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception1.csv  
+and a sample of the data:  
+
+| State         | Firearms Death Rate per 100,000| Has Gun Regulations? | Region |
+| ------------- |--------------------------------| ---------------------|------- |
+| California    | 17.9                           | Yes                  | West   |
+| Colorado      | 14.3                           | No                   | West   |
+| Delaware      | 11                             | Yes                  | South  |
 
 ### Creating the Chart in Tableau
 
@@ -39,10 +42,14 @@ Chart 13 shows gun-related suicides over time, and tries to make the argument th
 
 The gun-related suicide data in Australia is from the Australian Bureau of Statistics (https://docs.google.com/spreadsheets/d/1dIbOUd6uVnecoN4POu8X1G0L86YPMNVtaqPB__6Z5AY/edit#gid=1189303453). I used data from 1986-2006--10 years before and after the buyback program. I know you aren't supposed to plot raw data, but contradicting the original chart's argument didn't require very much.  
 
-Here is the final data I used in Tableau:
-```{r}
-kable(read.csv(url("https://raw.githubusercontent.com/skakers/MSIS2629_Individual_Project/master/Deception2.csv")))
-```
+Here is a link to the final data I used in Tableau:   https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception2.csv 
+and a sample of the data:  
+
+| Year          | Gun-related Suicides per 100,000|
+| ------------- |---------------------------------|
+| 1986          | 3.5                             |
+| 1987          | 3.7                             |
+| 1988          | 3.2                             |
 
 ### Creating the Chart in Tableau  
 
@@ -64,10 +71,14 @@ I picked this chart for a deceptive version because homicides decreasing doesn't
 
 I used the WISQARS data for homicide rates in every year except 1993, which I got from the original chart.  For the guns owned in the U.S., I used data from the Congressional Research Service (https://fas.org/sgp/crs/misc/RL32842.pdf), and Dean Weingarten's "How Many Guns Are There in America" (http://www.thetruthaboutguns.com/2015/07/dean-weingarten/how-many-guns-are-there-in-america/) which is based on data from the United States Bureau of Alcohol, Tobacco, Firearms and Explosives. I only used the years that strictly decreased the homicide rate to make the trend look more solid.   
 
-Here is the final data I used in Tableau:
-```{r}
-kable(read.csv(url("https://raw.githubusercontent.com/skakers/MSIS2629_Individual_Project/master/Deception3.csv")))
-```
+Here is a link to the final data I used in Tableau:   https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception3.csv  
+and a sample of the data:  
+
+| Year         | Guns Owned (millions)   | Homicides per 100,000 |
+| -------------|-------------------------| ----------------------|
+| 1993         | 231                     | 7.0                   |
+| 2000         | 259                     | 3.8                   |
+| 2003         | 279                     | 3.49                  |
 
 
 ### Creating the Chart in Tableau  
