@@ -83,7 +83,7 @@ and a sample of the data:
 
 ### Creating the Chart in Tableau  
 
-SUM(Guns owned (millions)) and SUM(homicides per 100,000) are on the rows and Year is on the columns. I added a title to make a claim, and a caption to specify data sources. I also decided not to show the legend title since the default "Measure Names" seemed superfluous. 
+SUM(Guns owned (millions)) and SUM(homicides per 100,000) are on the rows and Year is on the columns. I added a title to make a claim, and a caption to specify data sources. I also decided not to show the legend title since the default "Measure Names" seemed superfluous. I also fixed the left axis to 50-350 and the right axis from 1-7.5, mostly for the purpose of reducing white space, but also to increase contrast a bit.   
 
 ### Future Improvements
 
