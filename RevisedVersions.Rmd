@@ -194,10 +194,10 @@ Original:
 ![](Chart9.png)
 
 First Version: 
-![](Guns and Homicides.jpg)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Guns%20and%20Homicides.jpg)
 
 Revised Version:
-![](Guns and Homicides Revised.png)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Guns%20and%20Homicides%20Revised.png)
 
 #### Critique of First Version
 My biggest problem with my first version was that it was a dual-axis graph with different scales, which is inherently deceptive, so my deceptive version was not that subtle. I attempted to plot percentage change instead of the absolutes to remedy this issue, but that version of the chart ended up being really visually confusing. So instead of changing the visual representation I added annotations to reinforce the changes in each line, and to try to compensate for the deceptive relativity of the dual-axis with some absolute numbers.
