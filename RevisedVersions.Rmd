@@ -10,7 +10,7 @@ https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-stati
 Original: 
 ![](Chart11.jpg)
 First Version: 
-![](More Guns, More Deaths V1.jpg)
+![](`More Guns, More Deaths V1.jpg`)
 
 Revised Version:
 ![](More Guns, More Suicides Revised.png)
