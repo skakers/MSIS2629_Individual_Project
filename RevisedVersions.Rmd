@@ -7,13 +7,16 @@ https://public.tableau.com/profile/sydney.akers#!/vizhome/GunControlRevisedVersi
 ### Chart #11 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
-Original: 
+Original:  
+
 ![](Chart11.jpg)
 
-First Version: 
+First Version:   
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/More%20Guns%2C%20More%20Deaths%20V1.jpg)
 
-Revised Version:
+Revised Version:  
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/More%20Guns%2C%20More%20Suicides%20Revised.png)
 
 #### Critique of First Version
@@ -24,9 +27,11 @@ So I decided to correct all of these by scrapping the homicide data since it did
 For polish, I changed the jarring Tableau default colors to different shades of blue (distinguishable in black and white) and added source information. 
 
 #### Additional Necessary Data Wrangling
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign1.csv
 Sources used in the first version:
 https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2015.302749 
 https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
+
 I revisited the WISQARS data ( https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp) to obtain data on total suicides (all methods) in each group of states as before. 
 
 Below are my input options for the WISQARS report options to obtain the additional "total suicides" data:
@@ -57,13 +62,14 @@ I think my final revised version definitely improves on the original. It clarifi
 ### Chart #15 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
-Original: 
+Original:  
+
 ![](Chart15.png)
 
-First Version: 
+First Version:  
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Public%20remains%20closely%20divided%20V1.jpg)
 
-Revised Version:
+Revised Version:  
 ![](PublicDivided.png)
 
 #### Critique of First Version
@@ -72,6 +78,7 @@ My first version had a few problems. Firstly, the totals of the stacked bar grap
 In my first versions, I also thought a filter might be useful since there are several categories and subcategories present in the graph, not all necessarily of interest to every viewer (this will not show up in the picture, but should carry over to the Tableau Public Version. 
 
 #### Additional Necessary Data Wrangling
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign2.csv
 Sources used in the first version:  http://www.people-press.org/2012/07/30/views-on-gun-laws-unchanged-after-aurora-shooting/ 
 No additional data wrangling was necessary.
 
@@ -87,13 +94,16 @@ I think my final revised version improved on the original chart in several ways.
 ### Chart #16 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
-Original: 
+Original:  
+
 ![](Chart16.png)
 
-First Version: 
+First Version:  
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Shootings%20Don't%20Shift%20Views%20V1.jpg)
 
-Revised Version:
+Revised Version:  
+
 ![](ShootingsViews.png)
 
 #### Critique of First Version
@@ -102,6 +112,7 @@ Second, I wanted to provide a little bit of information about each shooting to h
 Furthermore, feedback from several people brought to my attention that the dates at the bottom of each bar are a bit cramped and running into each other.
 
 #### Additional Necessary Data Wrangling
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign3.csv
 Sources used in the first version:
 http://www.people-press.org/2012/07/30/views-on-gun-laws-unchanged-after-aurora-shooting/
 No additional data wrangling was necessary, but I did use some additional sources for the descriptions of each shooting:
@@ -123,13 +134,16 @@ I think my chart improved on the original for several reasons. The original char
 ### Chart #8 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
-Original: 
+Original:  
+
 ![](Chart8.jpg)
 
-First Version: 
+First Version:  
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/States%20and%20gun%20control.jpg)
 
-Revised Version:
+Revised Version:  
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/States%20and%20Gun%20Control%20Revised.png)
 
 #### Critique of First Version
@@ -139,6 +153,7 @@ I also decided to give each category separate colors, again the two shades of bl
 I also thought there were two many decimal points in the mark labels, serving no other purpose than to distract.
 
 #### Additional Necessary Data Wrangling
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception1.csv
 Sources used in the first version:
 https://www.theatlantic.com/national/archive/2011/01/the-geography-of-gun-deaths/69354/
 https://www.kff.org/other/state-indicator/firearms-death-rate-per-100000/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
@@ -157,13 +172,16 @@ I think my revised version does a good job of flipping the argument of the origi
 ### Chart #13 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
-Original: 
+Original:  
+
 ![](Chart13.jpg)
 
-First Version: 
+First Version:  
+
 ![](Buyback.jpg)
 
-Revised Version:
+Revised Version:  
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Buyback%20Revised.png)
 
 #### Critique of First Version
@@ -174,6 +192,7 @@ Also as I discussed in my first version future improvements, I adjusted the plac
 I also tried adding the corresponding data from gun-related homicides, but it was not as compelling in favor of the argument (a linear fit of that data had a much lower R-squared). Furthermore, the homicide rates were so much lower than the suicide rates that including them on the same chart did not make visual or logical sense.
 
 #### Additional Necessary Data Wrangling
+Data used in the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception2.csv
 Sources used in the first version:
 (https://docs.google.com/spreadsheets/d/1dIbOUd6uVnecoN4POu8X1G0L86YPMNVtaqPB__6Z5AY/edit#gid=1189303453)
 No additional data wrangling was necessary for my final version but the homicide data I mentioned attempting to use can also be found in the above link.
@@ -190,13 +209,16 @@ I think my chart does a good job of flipping the original argument by taking adv
 ### Chart #9 from Vox's gun violence article    
 https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts
 
-Original: 
+Original:  
+
 ![](Chart9.png)
 
-First Version: 
+First Version:  
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Guns%20and%20Homicides.jpg)
 
-Revised Version:
+Revised Version:  
+
 ![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Guns%20and%20Homicides%20Revised.png)
 
 #### Critique of First Version
@@ -205,6 +227,7 @@ My biggest problem with my first version was that it was a dual-axis graph with 
 I also wanted to make it clear that this data was for the United States (especially since not all my graphs are based on data strictly in the United States).
 
 #### Additional Necessary Data Wrangling
+Data used in the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception3.csv
 Sources used in the first version:
 (https://fas.org/sgp/crs/misc/RL32842.pdf)
 (http://www.thetruthaboutguns.com/2015/07/dean-weingarten/how-many-guns-are-there-in-america/)
