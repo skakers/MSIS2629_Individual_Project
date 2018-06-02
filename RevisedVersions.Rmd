@@ -11,10 +11,10 @@ Original:
 ![](Chart11.jpg)
 
 First Version: 
-![](More Guns, More Deaths V1.jpg)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/More%20Guns%2C%20More%20Deaths%20V1.jpg)
 
 Revised Version:
-![](More Guns, More Suicides Revised.png)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/More%20Guns%2C%20More%20Suicides%20Revised.png)
 
 #### Critique of First Version
 My first version corrected a few ambiguities in the original, but created some of its own. "Age Adjusted Rate," as I postulated in my intended improvements, was confusing to general audiences. Secondly, my first version made its rebuttal rather easy, since the homicide rates were not drastically different. Furthermore, a second criticism could be that firearm suicides could have been higher in states with more guns simply because there are more suicides in that state (due to some other factor). 
@@ -61,7 +61,7 @@ Original:
 ![](Chart15.png)
 
 First Version: 
-![](Public remains closely divided V1.jpg)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Public%20remains%20closely%20divided%20V1.jpg)
 
 Revised Version:
 ![](PublicDivided.png)
@@ -91,7 +91,7 @@ Original:
 ![](Chart16.png)
 
 First Version: 
-![](Shootings Don't Shift Views V1.jpg)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Shootings%20Don't%20Shift%20Views%20V1.jpg)
 
 Revised Version:
 ![](ShootingsViews.png)
@@ -127,10 +127,10 @@ Original:
 ![](Chart8.jpg)
 
 First Version: 
-![](States and gun control.jpg)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/States%20and%20gun%20control.jpg)
 
 Revised Version:
-![](States and Gun Control Revised.png)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/States%20and%20Gun%20Control%20Revised.png)
 
 #### Critique of First Version
 As I discussed in the future improvements of the first version, I wanted to include the information that I used an equal number of states with gun regulations and without. Like the additional information on regional breakdown, I wanted to include this information to give the appearance of a fair, representative sample of states for each category (which of course is not the case).
@@ -164,7 +164,7 @@ First Version:
 ![](Buyback.jpg)
 
 Revised Version:
-![](Buyback Revised.png)
+![](https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Buyback%20Revised.png)
 
 #### Critique of First Version
 I had thought about removing the trendline in my first version to try to reduce any confusion, but I decided to explain it further instead. I discussed the R-squared value in the caption, which is a bit technical, but I included an explanation which summarizes the meaning of the R-squared value (The R-squared value will not be visible in a rollover on the picture, but will be on the Tableau Public version). I think the R-squared value makes the argument even stronger, since it confirms the constant rate of decline in firearm suicides.
