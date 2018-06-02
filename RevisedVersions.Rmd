@@ -27,7 +27,8 @@ So I decided to correct all of these by scrapping the homicide data since it did
 For polish, I changed the jarring Tableau default colors to different shades of blue (distinguishable in black and white) and added source information. 
 
 #### Additional Necessary Data Wrangling
-Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign1.csv
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign1.csv  
+
 Sources used in the first version:
 https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2015.302749 
 https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
@@ -78,7 +79,8 @@ My first version had a few problems. Firstly, the totals of the stacked bar grap
 In my first versions, I also thought a filter might be useful since there are several categories and subcategories present in the graph, not all necessarily of interest to every viewer (this will not show up in the picture, but should carry over to the Tableau Public Version. 
 
 #### Additional Necessary Data Wrangling
-Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign2.csv
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign2.csv  
+
 Sources used in the first version:  http://www.people-press.org/2012/07/30/views-on-gun-laws-unchanged-after-aurora-shooting/ 
 No additional data wrangling was necessary.
 
@@ -112,9 +114,11 @@ Second, I wanted to provide a little bit of information about each shooting to h
 Furthermore, feedback from several people brought to my attention that the dates at the bottom of each bar are a bit cramped and running into each other.
 
 #### Additional Necessary Data Wrangling
-Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign3.csv
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Redesign3.csv  
+
 Sources used in the first version:
-http://www.people-press.org/2012/07/30/views-on-gun-laws-unchanged-after-aurora-shooting/
+http://www.people-press.org/2012/07/30/views-on-gun-laws-unchanged-after-aurora-shooting/  
+
 No additional data wrangling was necessary, but I did use some additional sources for the descriptions of each shooting:
 https://www.nytimes.com/2007/04/16/us/16cnd-shooting.html
 http://news.blogs.cnn.com/2012/08/07/fast-facts-2011-tuscon-shooting/
@@ -153,11 +157,13 @@ I also decided to give each category separate colors, again the two shades of bl
 I also thought there were two many decimal points in the mark labels, serving no other purpose than to distract.
 
 #### Additional Necessary Data Wrangling
-Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception1.csv
+Data used for the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception1.csv  
+
 Sources used in the first version:
 https://www.theatlantic.com/national/archive/2011/01/the-geography-of-gun-deaths/69354/
 https://www.kff.org/other/state-indicator/firearms-death-rate-per-100000/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
-(https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States)
+(https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States)  
+
 No additional data wrangling was necessary.
 
 #### Tableau Revisions
@@ -192,9 +198,11 @@ Also as I discussed in my first version future improvements, I adjusted the plac
 I also tried adding the corresponding data from gun-related homicides, but it was not as compelling in favor of the argument (a linear fit of that data had a much lower R-squared). Furthermore, the homicide rates were so much lower than the suicide rates that including them on the same chart did not make visual or logical sense.
 
 #### Additional Necessary Data Wrangling
-Data used in the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception2.csv
+Data used in the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception2.csv  
+
 Sources used in the first version:
-(https://docs.google.com/spreadsheets/d/1dIbOUd6uVnecoN4POu8X1G0L86YPMNVtaqPB__6Z5AY/edit#gid=1189303453)
+(https://docs.google.com/spreadsheets/d/1dIbOUd6uVnecoN4POu8X1G0L86YPMNVtaqPB__6Z5AY/edit#gid=1189303453)  
+
 No additional data wrangling was necessary for my final version but the homicide data I mentioned attempting to use can also be found in the above link.
 
 #### Tableau Revisions
@@ -227,10 +235,12 @@ My biggest problem with my first version was that it was a dual-axis graph with 
 I also wanted to make it clear that this data was for the United States (especially since not all my graphs are based on data strictly in the United States).
 
 #### Additional Necessary Data Wrangling
-Data used in the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception3.csv
+Data used in the revised version: https://github.com/skakers/MSIS2629_Individual_Project/blob/master/Deception3.csv  
+
 Sources used in the first version:
 (https://fas.org/sgp/crs/misc/RL32842.pdf)
-(http://www.thetruthaboutguns.com/2015/07/dean-weingarten/how-many-guns-are-there-in-america/)
+(http://www.thetruthaboutguns.com/2015/07/dean-weingarten/how-many-guns-are-there-in-america/)  
+
 No additional data wrangling was necessary.
 
 #### Tableau Revisions
