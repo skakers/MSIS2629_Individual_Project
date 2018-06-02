@@ -1,0 +1,7 @@
+States,number of deaths,population,crude rate,age adjusted rate,Type of Death,years,Rate of Gun Ownership,Firearm suicide percentage of total suicides
+"AK, KY, UT, SC, OK",10990,115532515,9.51,9.34,Firearm Suicide,2009-2015,>60%,
+"MA, NJ, RI, VA, MD",7707,214290158,3.6,3.38,Firearm Suicide,2009-2015,<40%,
+"AK, KY, UT, SC, OK",18308,115532515,15.85,15.74,Total Suicides,2009-2015,>60%,
+"MA, NJ, RI, VA, MD",20314,214290158,9.48,9.01,Total Suicides,2009-2015,<40%,
+"MA, NJ, RI, VA, MD",,,,,Firearm suicide percentage of total suicides,2009-2015,<40%,37.93935217
+"AK, KY, UT, SC, OK",,,,,Firearm suicide percentage of total suicides,2009-2015,>60%,60.02840288
